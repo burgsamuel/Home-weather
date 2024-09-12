@@ -1,0 +1,17 @@
+#header {
+    box-shadow: 5px 5px 10px rgba(0,0,0,.7);
+    line-height: 40px;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background: linear-gradient(to right, #c3195d, #f76b8a);
+    font-size: 28px;
+    text-align: center;
+    margin: 10px;
+    height: 160px;
+    border-radius: 10px;
+}
